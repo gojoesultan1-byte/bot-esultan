@@ -1,0 +1,14 @@
+{
+  "users": {},
+  "groups": {},
+  "daily": {},
+  "games": {},
+  "transactions": {},
+  "replies": {},
+  "shortcuts": {},
+  "settings": {
+    "maintenance": false,
+    "globalBank": true,
+    "globalGames": true
+  }
+}
